@@ -8,4 +8,5 @@ This is a Pong game clone built in Python using the turtle graphics module
 
 It is a simple two-player arcade game where the goal is to outscore your opponent by hitting the ball past their paddle.
 
-<img width="997" height="783" alt="image" src="https://github.com/user-attachments/assets/0468f6e3-7caf-4c2e-a63d-a506782e9d6a" />
+<img width="1030" height="803" alt="image" src="https://github.com/user-attachments/assets/b6038561-15ee-40cc-b2c5-2b85f1ae5ce7" />
+
